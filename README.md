@@ -2,4 +2,4 @@
 
 <p>Clone da página inicial do Youtube, Front-End usando <b>Html e Css</b> </p>
 
-<img src='youtube-clone.png'>
+<img src='screen.png'>
